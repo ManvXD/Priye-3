@@ -90,7 +90,7 @@ function drawText() {
   if (frameNumber < 300) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "everyday day I cannot believe how lucky I am",
+      "Priye I don't know How to say this but",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -100,7 +100,7 @@ function drawText() {
   if (frameNumber >= 300 && frameNumber < 600) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "everyday day I cannot believe how lucky I am",
+      "Priye I don't know How to say this but",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -116,7 +116,7 @@ function drawText() {
 
     if (window.innerWidth < 600) {
       drawTextWithLineBreaks(
-        ["amongst trillions and trillions of stars,", "over billions of years"],
+        ["I Want you to know that YOU'RE The Only Person,", "I've Gave MY HEART"],
         canvas.width / 2,
         canvas.height / 2,
         fontSize,
@@ -124,7 +124,7 @@ function drawText() {
       );
     } else {
       context.fillText(
-        "amongst trillions and trillions of stars, over billions of years",
+        "I Want you to know that YOU'RE The Only Person, I've Gave MY HEART",
         canvas.width / 2,
         canvas.height / 2
       );
@@ -137,7 +137,7 @@ function drawText() {
 
     if (window.innerWidth < 600) {
       drawTextWithLineBreaks(
-        ["amongst trillions and trillions of stars,", "over billions of years"],
+        ["I Want you to know that YOU'RE The Only Person,", "I've Gave MY HEART"],
         canvas.width / 2,
         canvas.height / 2,
         fontSize,
@@ -145,7 +145,7 @@ function drawText() {
       );
     } else {
       context.fillText(
-        "amongst trillions and trillions of stars, over billions of years",
+        "I Want you to know that YOU'RE The Only Person, I've Gave MY HEART",
         canvas.width / 2,
         canvas.height / 2
       );
@@ -160,7 +160,7 @@ function drawText() {
   if (frameNumber > 1200 && frameNumber < 1500) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "to be alive, and to get to spend this life with you",
+      "Because of YOU I know How To live... I feel like before you i was just existing",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -169,7 +169,7 @@ function drawText() {
   if (frameNumber >= 1500 && frameNumber < 1800) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "to be alive, and to get to spend this life with you",
+      "Because of YOU I know How To live... I feel like before you i was just existing",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -182,7 +182,7 @@ function drawText() {
   if (frameNumber > 1800 && frameNumber < 2100) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "is so incredibly, unfathomably unlikely",
+      "its so shallow that i fought alot with you but you still try to stick with ME",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -191,7 +191,7 @@ function drawText() {
   if (frameNumber >= 2100 && frameNumber < 2400) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "is so incredibly, unfathomably unlikely",
+      "its so shallow that i fought alot with you but you still try to stick with ME",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -207,8 +207,7 @@ function drawText() {
     if (window.innerWidth < 600) {
       drawTextWithLineBreaks(
         [
-          "and yet here I am to get the impossible",
-          "chance to get to know you",
+          "And Now here i'm Who's willing to give everything JUST TO LIVE WITH YOU MY WHOLE LIFE",
         ],
         canvas.width / 2,
         canvas.height / 2,
@@ -217,7 +216,7 @@ function drawText() {
       );
     } else {
       context.fillText(
-        "and yet here I am to get the impossible chance to get to know you",
+        "And Now here i'm Who's willing to give everything JUST TO LIVE WITH YOU MY WHOLE LIFE",
         canvas.width / 2,
         canvas.height / 2
       );
@@ -231,8 +230,7 @@ function drawText() {
     if (window.innerWidth < 600) {
       drawTextWithLineBreaks(
         [
-          "and yet here I am to get the impossible",
-          "chance to get to know you",
+          "And Now here i'm Who's willing to give everything JUST TO LIVE WITH YOU MY WHOLE LIFE",
         ],
         canvas.width / 2,
         canvas.height / 2,
@@ -241,7 +239,7 @@ function drawText() {
       );
     } else {
       context.fillText(
-        "and yet here I am to get the impossible chance to get to know you",
+        "And Now here i'm Who's willing to give everything JUST TO LIVE WITH YOU MY WHOLE LIFE",
         canvas.width / 2,
         canvas.height / 2
       );
@@ -259,8 +257,8 @@ function drawText() {
     if (window.innerWidth < 600) {
       drawTextWithLineBreaks(
         [
-          "I love you so much , more than",
-          "all the time and space in the universe can contain",
+          "I Want YOU to know ki Mai tere naal kitaa prem krawangaa..
+          'I Just Lovee YOUU WITH MY WHOLE HEART AND I JUST CANT LIVE WITHOUT YOU",
         ],
         canvas.width / 2,
         canvas.height / 2,
@@ -269,7 +267,8 @@ function drawText() {
       );
     } else {
       context.fillText(
-        "I love you so much , more than all the time and space in the universe can contain",
+        "I Want YOU to know ki Mai tere naal kitaa prem krawangaa..
+          'I Just Lovee YOUU WITH MY WHOLE HEART AND I JUST CANT LIVE WITHOUT YOU",
         canvas.width / 2,
         canvas.height / 2
       );
@@ -284,8 +283,7 @@ function drawText() {
     if (window.innerWidth < 600) {
       drawTextWithLineBreaks(
         [
-          "and I can't wait to spend all the time in",
-          "the world to share that love with you!",
+          "Mai Tere naaall purii duniyaa ghumna chahta aur sach kahun toh bas tere naal hi jeena chahta!",
         ],
         canvas.width / 2,
         canvas.height / 2 + 70,
@@ -294,7 +292,7 @@ function drawText() {
       );
     } else {
       context.fillText(
-        "and I can't wait to spend all the time in the world to share that love with you!",
+        "Mai Tere naaall purii duniyaa ghumna chahta aur sach kahun toh bas tere naal hi jeena chahta!",
         canvas.width / 2,
         canvas.height / 2 + 50
       );
@@ -306,7 +304,7 @@ function drawText() {
   if (frameNumber >= 3600 && frameNumber < 99999) {
     context.fillStyle = `rgba(255, 255, 255, ${thirdOpacity})`;
     context.fillText(
-      "Will You Be Mine?",
+      "Kyaa Is zindagi HUMESHA KE LIYE MERE BANA PASAND KROGI?",
       canvas.width / 2,
       canvas.height / 2 + 120
     );
