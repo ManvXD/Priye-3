@@ -91,7 +91,7 @@ function drawText() {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
       "Priye I don't know How to say this but",
-      canvas.width / 2,
+     canvas.width / 2,
       canvas.height / 2
     );
     opacity = opacity + 0.01;
@@ -118,6 +118,12 @@ function drawText() {
       drawTextWithLineBreaks(
         ["I Want you to know that YOU'RE The Only Person,", "I've Gave MY HEART"],
         canvas.width / 2,
+        canvas.height / 2,
+        fontSize,
+        lineHeight
+      );
+    } else {
+      context.fillText(        canvas.width / 2,
         canvas.height / 2,
         fontSize,
         lineHeight
